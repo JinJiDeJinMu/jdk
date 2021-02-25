@@ -1,0 +1,1410 @@
+
+[
+java:S1117«)"DRename "searchFunction" which hides the field declared at line 5280.(äø 
+E
+java:S1121Ñ	".Extract the assignment out of this expression.(¸¢ÅÀ
+n	java:S127Ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
+7
+java:S2326Ü
+"V is not used in the class.(º¾õ˜ùÿÿÿÿ
+J
+java:S1121ê".Extract the assignment out of this expression.(íäÔşÿÿÿÿ
+7
+java:S1659ñ" Declare "lr" on a separate line.(Ú»Òâ
+\	java:S107ù/"AConstructor has 9 parameters, which is greater than 7 authorized.(ñ£â‹ûÿÿÿÿ
+u
+java:S2293Œ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+E
+java:S1121§/".Extract the assignment out of this expression.(©€Ş­
+i
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾ÿ·«
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¢—¸†şÿÿÿÿ
+V
+java:S1161‰.":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
+o	java:S135±"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+6
+java:S1659²"Declare "i" on a separate line.(ĞÀîŞ
+?
+java:S1948ş+"(Make "result" transient or serializable.(äÔ¬’
+C
+java:S1659¶,"'Declare "nextRight" on a separate line.(â„èªıÿÿÿÿ
+I
+java:S1948Ú*"-Make "transformer" transient or serializable.(Ï¨–ıÿÿÿÿ
+
+java:S1845Š1"rRename field "TRANSFERINDEX" to prevent any misunderstanding/clash with field "transferIndex" defined on line 800.(—¤ê×úÿÿÿÿ
+J
+java:S1121á-".Extract the assignment out of this expression.(÷ñš¯ûÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(«¡¯»üÿÿÿÿ
+E
+java:S11210".Extract the assignment out of this expression.(ş¼ÂØ
+;
+java:S1659ƒ/"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+?
+java:S1948­*"(Make "result" transient or serializable.(¦îõã
+E
+java:S1121Æ.".Extract the assignment out of this expression.(ş¼ÂØ
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤şœğ
+>
+java:S1659š-"'Declare "nextRight" on a separate line.(¦Û•£
+u
+java:S2293Ü+"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Á€şÿÿÿÿ
+E
+java:S1121‰)".Extract the assignment out of this expression.(ş¼ÂØ
+V
+java:S1161Ÿ/":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
+Y
+java:S1117¢/"=Rename "reducer" which hides the field declared at line 6033.(Œ¬¤üÿÿÿÿ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(íú
+7
+java:S1659µ" Declare "fh" on a separate line.(ĞÀîŞ
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Íç®ÿÿÿÿÿ
+6
+java:S1659"Declare "h" on a separate line.(ªÿÒ
+=
+java:S1659ÿ+"'Declare "nextRight" on a separate line.(¶Ëú)
+E
+java:S1121ø.".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121‡'".Extract the assignment out of this expression.(©€Ş­
+X
+java:S1117é&"<Rename "action" which hides the field declared at line 4961.(õõïØøÿÿÿÿ
+o
+java:S3776¸"SRefactor this method to reduce its Cognitive Complexity from 128 to the 15 allowed.(Öú“¡ıÿÿÿÿ
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û‚ÓŞ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ä×ûÿÿÿÿ
+;
+java:S1659õ$"Declare "v" on a separate line.(²øÉŞùÿÿÿÿ
+J
+java:S1121Û".Extract the assignment out of this expression.(áÄš¬şÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€Ü­„
+E
+java:S1948å,")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
+s	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
+J
+java:S1121¿0".Extract the assignment out of this expression.(‡‘‚Ôûÿÿÿÿ
+6
+java:S1659ù"Declare "n" on a separate line.(ĞÀîŞ
+p
+java:S2293Í$"YReplace the type specification in this constructor call with the diamond operator ("<>").(œìğŒ
+D
+java:S1948²,"-Make "transformer" transient or serializable.(–Ø®ÿ
+I
+java:S1948ú-"-Make "transformer" transient or serializable.(£€µæùÿÿÿÿ
+o	java:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
+E
+java:S1121ó".Extract the assignment out of this expression.(Ê–á¨
+<
+java:S1659Ó" Declare "tl" on a separate line.(¾Õ”Ìûÿÿÿÿ
+Y
+java:S1117Ô/"=Rename "reducer" which hides the field declared at line 6083.(¼üÎ”şÿÿÿÿ
+J
+java:S1121Ÿ".Extract the assignment out of this expression.(èıøüÿÿÿÿ
+P
+java:S1161ç0":Add the "@Override" annotation above this method signature(ç®¸>
+;
+java:S1659¶"Declare "n" on a separate line.(ü±÷Òşÿÿÿÿ
+<
+java:S1659Ê" Declare "ch" on a separate line.(©ß¹‰øÿÿÿÿ
+[
+java:S3358¸"DExtract this nested ternary operation into an independent statement.(¢¶¥Ì
+s	java:S127…"XRefactor the code in order to not assign to this loop counter from within the loop body.(û©¡ÿúÿÿÿÿ
+o
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÊ©
+6
+java:S1659ç"Declare "a" on a separate line.(Ïè¸™
+E
+java:S1948ü)")Make "reducer" transient or serializable.(Í®¯Ğüÿÿÿÿ
+<
+java:S1659ı" Declare "rl" on a separate line.(§×óÕúÿÿÿÿ
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 78 to the 15 allowed.(¯ĞÙÁ
+p
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(îöÙ÷
+n	java:S127Å"XRefactor the code in order to not assign to this loop counter from within the loop body.(å˜’á
+E
+java:S1948É-")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
+X
+java:S1117Õ+"ARename "transformer" which hides the field declared at line 5574.(¬”é»
+u
+java:S2293ã$"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+<
+java:S1659‘" Declare "sl" on a separate line.(‰ñÈİúÿÿÿÿ
+G
+java:S1150Ñ"+Implement Iterator rather than Enumeration.(ÖŞªÿÿÿÿÿ
+7
+java:S2326Ü
+"K is not used in the class.(º¾õ˜ùÿÿÿÿ
+5
+java:S1659÷"Declare "n" on a separate line.(ˆ²˜.
+V
+java:S1117—&":Rename "next" which hides the field declared at line 4812.(É£ê®úÿÿÿÿ
+:
+java:S1659á"#Declare "spare" on a separate line.(ß¸”›
+o	java:S135Õ"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+6
+java:S1659ù"Declare "i" on a separate line.(ĞÀîŞ
+E
+java:S1948û-")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
+Q
+java:S1161+":Add the "@Override" annotation above this method signature(Áúê„
+X
+java:S1117„("ARename "transformer" which hides the field declared at line 5114.(ˆáŸò
+<
+java:S1659ß" Declare "pp" on a separate line.(ê¾ˆùûÿÿÿÿ
+6
+java:S1659À"Declare "f" on a separate line.(ªÿÒ
+C
+java:S1948Í%"'Make "spare" transient or serializable.(³è¬Üıÿÿÿÿ
+G
+java:S1948œ("0Make "searchFunction" transient or serializable.(±¾ìô
+I
+java:S1948ä,"-Make "transformer" transient or serializable.(²‚éûûÿÿÿÿ
+X
+java:S1117…0"ARename "transformer" which hides the field declared at line 6132.(ÈòáÑ
+E
+java:S1121Ù/".Extract the assignment out of this expression.(©€Ş­
+o	java:S135Ò"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
+E
+java:S1121ì&".Extract the assignment out of this expression.(©€Ş­
+S
+java:S1117Â'"<Rename "action" which hides the field declared at line 5049.(¶£‰‡
+E
+java:S1121¾*".Extract the assignment out of this expression.(ş¼ÂØ
+I
+java:S1948+"-Make "transformer" transient or serializable.(×„Šşüÿÿÿÿ
+\	java:S107•/"AConstructor has 9 parameters, which is greater than 7 authorized.(ÂÂÛ›ùÿÿÿÿ
+Y
+java:S1117¸*"=Rename "reducer" which hides the field declared at line 5420.(ßæŞäüÿÿÿÿ
+E
+java:S1121‹0".Extract the assignment out of this expression.(©€Ş­
+s	java:S127Ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
+E
+java:S1121É,".Extract the assignment out of this expression.(©€Ş­
+I
+java:S1948Ş."-Make "transformer" transient or serializable.(Ò¢Äûùÿÿÿÿ
+n
+java:S3776¦("RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+7
+java:S1659ä" Declare "sc" on a separate line.(©ÙÜÓ
+E
+java:S1121ß-".Extract the assignment out of this expression.(©€Ş­
+]
+java:S1117Á'"ARename "transformer" which hides the field declared at line 5048.(×„Šşüÿÿÿÿ
+6
+java:S1659²"Declare "n" on a separate line.(ĞÀîŞ
+]
+java:S1117½."ARename "transformer" which hides the field declared at line 5932.(Í›»ëøÿÿÿÿ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÁúª
+V
+java:S1161¹":Add the "@Override" annotation above this method signature(ÂìÎ‚øÿÿÿÿ
+V
+java:S1161©)":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
+Y
+java:S1117¾."=Rename "reducer" which hides the field declared at line 5933.(Œ¬¤üÿÿÿÿ
+<
+java:S1659™" Declare "tn" on a separate line.(ÂİÅ‡úÿÿÿÿ
+V
+java:S1161ó,":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
+n	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+A
+java:S1948š""%Make "map" transient or serializable.(³¸ç™ùÿÿÿÿ
+E
+java:S1121ğ*".Extract the assignment out of this expression.(‡ò¹´
+E
+java:S1121ø.".Extract the assignment out of this expression.(ş¼ÂØ
+i
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(í£¨Û
+E
+java:S1121Œ(".Extract the assignment out of this expression.(ş¼ÂØ
+V
+java:S1161Ñ(":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
+?
+java:S1948Ü*"(Make "result" transient or serializable.(äÔ¬’
+?
+java:S1948Ú'"(Make "action" transient or serializable.(¶£‰‡
+V
+java:S1161ı(":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
+E
+java:S1121Ø(".Extract the assignment out of this expression.(©€Ş­
+Y
+java:S1117ê0"=Rename "reducer" which hides the field declared at line 6233.(¼üÎ”şÿÿÿÿ
+
+java:S1845Œ1"jRename field "CELLSBUSY" to prevent any misunderstanding/clash with field "cellsBusy" defined on line 805.(°‚¿‚
+T
+java:S1117Ö+"=Rename "reducer" which hides the field declared at line 5575.(Ä”†‘
+Y
+java:S1117†0"=Rename "reducer" which hides the field declared at line 6133.(¼üÎ”şÿÿÿÿ
+E
+java:S1121ç'".Extract the assignment out of this expression.(©€Ş­
+I
+java:S1948¸'"-Make "transformer" transient or serializable.(×„Šşüÿÿÿÿ
+;
+java:S1659ş$"Declare "e" on a separate line.(“”ûÿÿÿÿ
+
+java:S1319¢""The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ÇÅõ§ÿÿÿÿÿ
+u
+java:S2293ñ0"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óç ªÿÿÿÿÿ
+;
+java:S1659ı"Declare "q" on a separate line.(İÂ”‡ıÿÿÿÿ
+[
+java:S3358"DExtract this nested ternary operation into an independent statement.(°…Î›
+P
+java:S1161µ0":Add the "@Override" annotation above this method signature(ç®¸>
+n	java:S127ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
+u
+java:S2293İ)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¼µ¢úÿÿÿÿ
+C
+java:S1659â."'Declare "nextRight" on a separate line.(ó¡ûÿÿÿÿ
+n	java:S127ğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
+C
+java:S1659°."'Declare "nextRight" on a separate line.(Î¨¦úûÿÿÿÿ
+;
+java:S1659Ë0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+o	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+u
+java:S2293è	"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ÕÄËûÿÿÿÿ
+V
+java:S1068Û":Remove this unused "serialPersistentFields" private field.(òÌ‡‹øÿÿÿÿ
+J
+java:S1121“.".Extract the assignment out of this expression.(ÔÃù¼ûÿÿÿÿ
+J
+java:S1121á".Extract the assignment out of this expression.(»ëñûÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(•µÄå
+;
+java:S1659Ê*"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+p
+java:S2293’,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âşíº
+7
+java:S1659õ" Declare "sr" on a separate line.(ã•±û
+<
+java:S1659˜" Declare "tl" on a separate line.(‹ç¯Åûÿÿÿÿ
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯
+E
+java:S1121Š'".Extract the assignment out of this expression.(ş¼ÂØ
+J
+java:S1121µ".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
+E
+java:S1121÷.".Extract the assignment out of this expression.(—ÅÊ
+E
+java:S1121½0".Extract the assignment out of this expression.(©€Ş­
+p
+java:S2293Ë,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÌ¿¨
+D
+java:S1948Ø0"-Make "transformer" transient or serializable.(£îƒ¨
+J
+java:S1121è	".Extract the assignment out of this expression.(’ÕÄËûÿÿÿÿ
+o
+java:S3776¬"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(²‘šÂÿÿÿÿÿ
+7
+java:S1659ş" Declare "pr" on a separate line.(ó§îâ
+E
+java:S1121Æ'".Extract the assignment out of this expression.(©€Ş­
+E
+java:S1121µ)".Extract the assignment out of this expression.(ş¼ÂØ
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¿æÕ
+n	java:S127·"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
+t
+java:S2234ü"XParameters to <init> have the same names but not the same order as the method arguments.(À×Æ­úÿÿÿÿ
+Q
+java:S1161Ó+":Add the "@Override" annotation above this method signature(Áúê„
+u
+java:S2293¦+"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÊÚïşÿÿÿÿ
+7
+java:S1659ş" Declare "hn" on a separate line.(ÖÑØ
+n	java:S127ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
+;
+java:S1659Ò"Declare "a" on a separate line.(üõ¦Âøÿÿÿÿ
+<
+java:S1659Ï" Declare "ph" on a separate line.(Î’­ùÿÿÿÿ
+s	java:S127Ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
+E
+java:S1121¤+".Extract the assignment out of this expression.(©€Ş­
+;
+java:S1659ğ"Declare "j" on a separate line.(Ìöá»ûÿÿÿÿ
+E
+java:S1121§+".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121¥'".Extract the assignment out of this expression.(©€Ş­
+6
+java:S1659"Declare "v" on a separate line.(ó‘°Ç
+=
+java:S1659è,"'Declare "nextRight" on a separate line.(ÇÁè
+Y
+java:S1117ğ."=Rename "reducer" which hides the field declared at line 5983.(Œ¬¤üÿÿÿÿ
+D
+java:S1948È-"-Make "transformer" transient or serializable.(±Ü­Ó
+X
+java:S1117·0"ARename "transformer" which hides the field declared at line 6182.(¶ğËŠ
+n	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+?
+java:S1948’+"(Make "result" transient or serializable.(äÔ¬’
+n	java:S127Õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
+6
+java:S1659§"Declare "n" on a separate line.(‘¨
+n	java:S127Ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª
+C
+java:S1659ş)"'Declare "nextRight" on a separate line.(¬¶°öûÿÿÿÿ
+6
+java:S1659ç"Declare "h" on a separate line.(ªÿÒ
+<
+java:S1659Ì*" Declare "sr" on a separate line.(Ó·óûÿÿÿÿ
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
+
+java:S1845®"kRename field "LOCKSTATE" to prevent any misunderstanding/clash with field "lockState" defined on line 2724.(«™
+E
+java:S1121ò0".Extract the assignment out of this expression.(ş¼ÂØ
+;
+java:S1659Â"$Declare "stride" on a separate line.(¢¤Ò
+;
+java:S1659™0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+V
+java:S1161Á,":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(í£¨Û
+7
+java:S1659§" Declare "ek" on a separate line.(‘¨
+\	java:S107«0"AConstructor has 9 parameters, which is greater than 7 authorized.(Š¿æ¡ùÿÿÿÿ
+E
+java:S1948³,")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
+6
+java:S1659"Declare "u" on a separate line.(ó‘°Ç
+6
+java:S1659ç"Declare "n" on a separate line.(Ïè¸™
+6
+java:S1659*" Declare "sr" on a separate line.(¡îûf
+R
+java:S1119ş";Refactor the code to remove this label and the need for it.(Ğüôı
+E
+java:S1121ê'".Extract the assignment out of this expression.(ş¼ÂØ
+I
+java:S1948–-"-Make "transformer" transient or serializable.(ßğà¿ùÿÿÿÿ
+E
+java:S1948Ã/")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
+n	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+E
+java:S1121".Extract the assignment out of this expression.(®•°ˆ
+E
+java:S1121”.".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121ş,".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121‰)".Extract the assignment out of this expression.(ş¼ÂØ
+6
+java:S1659Ö"Declare "m" on a separate line.(ú¬Ö¿
+E
+java:S1121Ì,".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ç™æøÿÿÿÿ
+h
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÀÂ™B
+<
+java:S1659™" Declare "tb" on a separate line.(ÂİÅ‡úÿÿÿÿ
+[
+java:S1117§("DRename "searchFunction" which hides the field declared at line 5148.(±¾ìô
+J
+java:S1121İ".Extract the assignment out of this expression.(æ¼½ûÿÿÿÿ
+S
+java:S1117¨("<Rename "result" which hides the field declared at line 5149.(ÿĞ„
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(êíÇ«øÿÿÿÿ
+J
+java:S1121ï%".Extract the assignment out of this expression.(œÏ’üÿÿÿÿ
+?
+java:S1948Í)"(Make "result" transient or serializable.(‡Á³Ó
+6
+java:S1659Ö"Declare "n" on a separate line.(ĞÀîŞ
+n
+java:S3776ª)"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+E
+java:S1121â-".Extract the assignment out of this expression.(ş¼ÂØ
+<
+java:S1659˜" Declare "tr" on a separate line.(‹ç¯Åûÿÿÿÿ
+D
+java:S1948Æ+"-Make "transformer" transient or serializable.(¬”é»
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(†Ó»Ç
+E
+java:S1121É'".Extract the assignment out of this expression.(ş¼ÂØ
+?
+java:S1948˜'"(Make "action" transient or serializable.(¶£‰‡
+u
+java:S2293 %"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+J
+java:S1121Ü+".Extract the assignment out of this expression.(†Á€şÿÿÿÿ
+E
+java:S1121Ô&".Extract the assignment out of this expression.(ş¼ÂØ
+6
+java:S1659ô"Declare "i" on a separate line.(ĞÀîŞ
+V
+java:S1161´":Add the "@Override" annotation above this method signature(àœçœıÿÿÿÿ
+=
+java:S1659‘&"!Declare "len" on a separate line.(§õ†úÿÿÿÿ
+E
+java:S1121õ".Extract the assignment out of this expression.(ğÃÜê
+o	java:S135Ù"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+\	java:S107”+"AConstructor has 8 parameters, which is greater than 7 authorized.(ëŸù×şÿÿÿÿ
+J
+java:S1121÷".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
+o
+java:S11286"TRemove this unnecessary import: same package classes are always implicitly imported.(˜ˆ¶úÿÿÿÿ
+p
+java:S2293Œ%"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ››®
+n	java:S127ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡†±¦
+D
+java:S1948ô/"-Make "transformer" transient or serializable.(ÈòáÑ
+E
+java:S1121Ú".Extract the assignment out of this expression.(è£…
+6
+java:S1659¢"Declare "p" on a separate line.(×÷¿Ğ
+p
+java:S2293Ü$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îë˜Å
+G
+java:S1128-"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+E
+java:S1121Õ".Extract the assignment out of this expression.(‚åÎ—
+6
+java:S1659µ"Declare "i" on a separate line.(ĞÀîŞ
+6
+java:S1659§"Declare "p" on a separate line.(‘¨
+<
+java:S1659î+" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
+
+java:S1845§"eRename field "WAITER" to prevent any misunderstanding/clash with field "waiter" defined on line 2723.(¤ã°…øÿÿÿÿ
+C
+java:S1948½#"'Make "value" transient or serializable.(Š¥²şÿÿÿÿ
+E
+java:S1948Ù0")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
+E
+java:S1121Á".Extract the assignment out of this expression.(®•°ˆ
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª™¥Â
+p
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(–€âÊ
+D
+java:S1948ı)"(Make "result" transient or serializable.(üâúƒşÿÿÿÿ
+Y
+java:S1117¸0"=Rename "reducer" which hides the field declared at line 6183.(¼üÎ”şÿÿÿÿ
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Û
+\	java:S107Í-"AConstructor has 9 parameters, which is greater than 7 authorized.(Ì›ø›ıÿÿÿÿ
+s	java:S127Ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ß—úÿÿÿÿ
+6
+java:S1659¥"Declare "p" on a separate line.(×÷¿Ğ
+p
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(–€âÊ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Ë…ûÿÿÿÿ
+T
+java:S1117 +"=Rename "reducer" which hides the field declared at line 5521.(Ä”†‘
+?
+java:S1948È+"(Make "result" transient or serializable.(äÔ¬’
+J
+java:S1121œ&".Extract the assignment out of this expression.(ğµÍ‘ùÿÿÿÿ
+J
+java:S1121€%".Extract the assignment out of this expression.(èıøüÿÿÿÿ
+h
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÉêŸ*
+j
+java:S3776Á"SRefactor this method to reduce its Cognitive Complexity from 120 to the 15 allowed.(§Ôâ
+s	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
+6
+java:S1659ç"Declare "f" on a separate line.(ªÿÒ
+E
+java:S1121Ü/".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121*".Extract the assignment out of this expression.(ş¼ÂØ
+s
+java:S3038¶""W"iterator" is defined in the "Collection" interface and can be removed from this class.(£õÕ—ûÿÿÿÿ
+q
+java:S3038¸""U"remove" is defined in the "Collection" interface and can be removed from this class.(¢º¤µøÿÿÿÿ
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+6
+java:S1659À"Declare "h" on a separate line.(ªÿÒ
+E
+java:S1121ê'".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121ì%".Extract the assignment out of this expression.(á¡Ì
+u
+java:S2293´%"YReplace the type specification in this constructor call with the diamond operator ("<>").(£¥™şÿÿÿÿ
+6
+java:S1659ä"Declare "n" on a separate line.(©ÙÜÓ
+E
+java:S1121õ.".Extract the assignment out of this expression.(©€Ş­
+7
+java:S1659ä" Declare "nt" on a separate line.(©ÙÜÓ
+s	java:S127Æ"XRefactor the code in order to not assign to this loop counter from within the loop body.(òæ®úÿÿÿÿ
+<
+java:S1659Ü" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ
+<
+java:S1659’" Declare "pk" on a separate line.(¹ª£ñÿÿÿÿÿ
+;
+java:S1659µ/"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+E
+java:S1121¬(".Extract the assignment out of this expression.(©€Ş­
+S
+java:S1117Ô("<Rename "result" which hides the field declared at line 5193.(ÿĞ„
+@
+java:S1948Ç+")Make "reducer" transient or serializable.(Ä”†‘
+[
+java:S1117ÿ("DRename "searchFunction" which hides the field declared at line 5236.(ĞÓĞ
+o	java:S135´"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+£
+java:S2681Ù"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(•íëÆûÿÿÿÿ
+]
+java:S1117ï."ARename "transformer" which hides the field declared at line 5982.(Ò¢Äûùÿÿÿÿ
+<
+java:S1659’" Declare "pv" on a separate line.(¹ª£ñÿÿÿÿÿ
+<
+java:S1659‘" Declare "ev" on a separate line.(“‡ëœøÿÿÿÿ
+I
+java:S1948—'"-Make "transformer" transient or serializable.(Ï¨–ıÿÿÿÿ
+?
+java:S1659¿"#Declare "first" on a separate line.(ö­Ë‰ıÿÿÿÿ
+>
+java:S1659“+"'Declare "nextRight" on a separate line.(øâ±ø
+u
+java:S2293„"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+p
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¶¥Ì
+E
+java:S1121°-".Extract the assignment out of this expression.(ş¼ÂØ
+H
+java:S2387®"1"values" is the name of a field in "AbstractMap".(ëì×¥
+s	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÛìÆÔıÿÿÿÿ
+J
+java:S1121Å.".Extract the assignment out of this expression.(§ÌÂúÿÿÿÿ
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÁúª
+<
+java:S1659Í
+" Declare "mv" on a separate line.(åğŒÆÿÿÿÿÿ
+V
+java:S1161¶*":Add the "@Override" annotation above this method signature(¼®èıÿÿÿÿ
+;
+java:S1659»-"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+u
+java:S2293©$"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+;
+java:S1659 "$Declare "hiTail" on a separate line.(ÒÔ é
+]
+java:S1117Ÿ+"ARename "transformer" which hides the field declared at line 5520.(×„Šşüÿÿÿÿ
+s
+java:S3077ï"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(»¥¥–ÿÿÿÿÿ
+J
+java:S1121±".Extract the assignment out of this expression.(ğµÍ‘ùÿÿÿÿ
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÕ¹Í
+>
+java:S1659Ø"'Declare "nextBound" on a separate line.( ªñä
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(¯ĞÙÁ
+E
+java:S1121".Extract the assignment out of this expression.(®•°ˆ
+p
+java:S2293ğ*"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ò¹´
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÖ™‰ıÿÿÿÿ
+E
+java:S1121ï&".Extract the assignment out of this expression.(ş¼ÂØ
+]
+java:S1117é*"ARename "transformer" which hides the field declared at line 5466.(Ï¨–ıÿÿÿÿ
+E
+java:S1121¶&".Extract the assignment out of this expression.(©€Ş­
+C
+java:S1659Ì-"'Declare "nextRight" on a separate line.(Íõåúÿÿÿÿ
+;
+java:S1659ş$"Declare "v" on a separate line.(“”ûÿÿÿÿ
+E
+java:S1121±(".Extract the assignment out of this expression.(ş¼ÂØ
+Q
+java:S1161$":Add the "@Override" annotation above this method signature(«À¡’
+7
+java:S1659ù" Declare "fh" on a separate line.(ĞÀîŞ
+G
+java:S1948ô("0Make "searchFunction" transient or serializable.(ĞÓĞ
+E
+java:S1121*".Extract the assignment out of this expression.(ş¼ÂØ
+s	java:S127”"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆÍìÚùÿÿÿÿ
+6
+java:S1659€"Declare "p" on a separate line.(×÷¿Ğ
+n
+java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(É±»ûÿÿÿÿ
+;
+java:S1659Ä"Declare "p" on a separate line.(ĞµÃĞüÿÿÿÿ
+E
+java:S1948õ/")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
+p
+java:S2293”!"YReplace the type specification in this constructor call with the diamond operator ("<>").(îöÙ÷
+E
+java:S1121’,".Extract the assignment out of this expression.(Âşíº
+Y
+java:S1117Œ."=Rename "reducer" which hides the field declared at line 5883.(Œ¬¤üÿÿÿÿ
+n
+java:S3077£"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù¨¨İ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(”Ñ¯Âşÿÿÿÿ
+;
+java:S1659œ*"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+7
+java:S1659ñ" Declare "pp" on a separate line.(Ú»Òâ
+J
+java:S1121ş	".Extract the assignment out of this expression.(ÿÍíÎùÿÿÿÿ
+S
+java:S1117„'"<Rename "action" which hides the field declared at line 4988.(ÃÎØ
+E
+java:S1121é".Extract the assignment out of this expression.(¡Û
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Œ¶å
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÉÚ×ûÿÿÿÿ
+5
+java:S1659÷"Declare "i" on a separate line.(ˆ²˜.
+p
+java:S2293ˆ&"YReplace the type specification in this constructor call with the diamond operator ("<>").(íú
+E
+java:S1121è".Extract the assignment out of this expression.(®•°ˆ
+E
+java:S1121İ+".Extract the assignment out of this expression.(ş¼ÂØ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(­ì†…ıÿÿÿÿ
+[
+java:S3358®	"DExtract this nested ternary operation into an independent statement.(„»ù¯
+n	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(šåÅ­
+n
+java:S3776¾
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İ¢êÍıÿÿÿÿ
+E
+java:S1121è".Extract the assignment out of this expression.(®•°ˆ
+J
+java:S1121‘".Extract the assignment out of this expression.(´á¢‚ùÿÿÿÿ
+<
+java:S1659„" Declare "ek" on a separate line.(ë‡â‹ùÿÿÿÿ
+n	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡†±¦
+Q
+java:S1161–":Add the "@Override" annotation above this method signature(’¿Ê«
+;
+java:S1659"Declare "v" on a separate line.(“”ûÿÿÿÿ
+E
+java:S1121Š'".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ù¾²üÿÿÿÿ
+i
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ìÄÿÅ
+n
+java:S3776Ò("RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+u
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+Q
+java:S1161·%":Add the "@Override" annotation above this method signature(ıÎ–¾
+\	java:S107Ç/"AConstructor has 9 parameters, which is greater than 7 authorized.(ûˆËßøÿÿÿÿ
+X
+java:S1117â'"ARename "transformer" which hides the field declared at line 5081.(¬”é»
+Q
+java:S1161‰,":Add the "@Override" annotation above this method signature(Áúê„
+E
+java:S1121İ(".Extract the assignment out of this expression.(ş¼ÂØ
+s
+java:S3077î"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ğËåˆıÿÿÿÿ
+u
+java:S2293Å."YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÌÂúÿÿÿÿ
+E
+java:S1121¨'".Extract the assignment out of this expression.(ş¼ÂØ
+n
+java:S3077¢"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(§Ç¶í
+?
+java:S1948ü&"(Make "action" transient or serializable.(ÃÎØ
+n
+java:S3776Ô+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+D
+java:S1948/"-Make "transformer" transient or serializable.(øŸÈ
+\	java:S107·,"AConstructor has 9 parameters, which is greater than 7 authorized.(‹õª‰úÿÿÿÿ
+J
+java:S11210".Extract the assignment out of this expression.(ÅÉ½Õøÿÿÿÿ
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ïù°Å
+T
+java:S1117Œ,"=Rename "reducer" which hides the field declared at line 5629.(Ä”†‘
+D
+java:S1948¦0"-Make "transformer" transient or serializable.(¶ğËŠ
+\	java:S112§1"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+n	java:S127•"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+u	java:S115º""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù İØüÿÿÿÿ
+E
+java:S11210".Extract the assignment out of this expression.(ş¼ÂØ
+n	java:S127‚"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+P
+java:S1161Ñ/":Add the "@Override" annotation above this method signature(ç®¸>
+E
+java:S1121“,".Extract the assignment out of this expression.(ş¼ÂØ
+S
+java:S1117³&"<Rename "action" which hides the field declared at line 4907.(é¯ü¡
+i
+java:S3776å%"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€Ü­„
+;
+java:S1659Ÿ."Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+;
+java:S1659ı0"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+\	java:S112¤1"FDefine and throw a dedicated exception instead of using a generic one.(­§äç
+E
+java:S1121±(".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1948ß.")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
+J
+java:S1121á".Extract the assignment out of this expression.(ì‹âÇùÿÿÿÿ
+<
+java:S1659¤," Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
+E
+java:S1121ï0".Extract the assignment out of this expression.(©€Ş­
+;
+java:S1659"Declare "e" on a separate line.(“”ûÿÿÿÿ
+@
+java:S1948Û*")Make "reducer" transient or serializable.(Ä”†‘
+n	java:S127ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
+@
+java:S1948Ì)")Make "reducer" transient or serializable.(ÑíÎ
+>
+java:S1659®*"'Declare "nextRight" on a separate line.(ÒöÏ¦
+n	java:S127•"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û
+6
+java:S1659ç"Declare "v" on a separate line.(Ïè¸™
+u
+java:S2293ä#"YReplace the type specification in this constructor call with the diamond operator ("<>").(µŒóÉıÿÿÿÿ
+X
+java:S1126¨"AReplace this if-then-else statement by a single return statement.(Ï¸ÁÖ
+Q
+java:S1161ñ":Add the "@Override" annotation above this method signature(à ¯
+Q
+java:S1161¯%":Add the "@Override" annotation above this method signature(¶•ãü
+<
+java:S1659½" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ
+W	java:S107±."AConstructor has 9 parameters, which is greater than 7 authorized.(áŞş¿
+E
+java:S1121µ)".Extract the assignment out of this expression.(ş¼ÂØ
+;
+java:S1659¶+"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+J
+java:S1121½*".Extract the assignment out of this expression.(Ì™ÀŞıÿÿÿÿ
+=
+java:S1659Æ/"'Declare "nextRight" on a separate line.(Ì‹ÅL
+7
+java:S1659Ï" Declare "sr" on a separate line.(ñÁ™
+J
+java:S1121İ)".Extract the assignment out of this expression.(Õ¼µ¢úÿÿÿÿ
+C
+java:S1659”/"'Declare "nextRight" on a separate line.(‰öÊíøÿÿÿÿ
+E
+java:S1121ş,".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÉ½Õøÿÿÿÿ
+;
+java:S1659õ$"Declare "r" on a separate line.(²øÉŞùÿÿÿÿ
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(ğ¸¯¡
+;
+java:S1659‰-"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+6
+java:S1659ı"Declare "p" on a separate line.(×÷¿Ğ
+S
+java:S1117€)"<Rename "result" which hides the field declared at line 5237.(ÿĞ„
+E
+java:S1948§0")Make "reducer" transient or serializable.(¼üÎ”şÿÿÿÿ
+E
+java:S1121‰(".Extract the assignment out of this expression.(©€Ş­
+D
+java:S1948Â/"-Make "transformer" transient or serializable.(ü¦»
+V
+java:S1161».":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
+<
+java:S1659¡" Declare "hc" on a separate line.(…ÃÁüÿÿÿÿ
+S
+java:S1117Î&"<Rename "action" which hides the field declared at line 4934.(¢ŠÖ
+n	java:S127à"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+J
+java:S1121É".Extract the assignment out of this expression.(£ëÜüÿÿÿÿ
+V	java:S107ÿ-"AConstructor has 9 parameters, which is greater than 7 authorized.(¶Èö
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(à ¯
+E
+java:S1121ù".Extract the assignment out of this expression.(á¡Ì
+E
+java:S1121Û/".Extract the assignment out of this expression.(Ô¥Ç¼
+t	java:S135ã"YReduce the total number of break and continue statements in this loop to use at most one.(à£Àüÿÿÿÿ
+;
+java:S1659×,"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+n	java:S135˜"YReduce the total number of break and continue statements in this loop to use at most one.(ã¥È
+E
+java:S1121Û)".Extract the assignment out of this expression.(©€Ş­
+S
+java:S1117¬)"<Rename "result" which hides the field declared at line 5281.(ÿĞ„
+u
+java:S2293“."YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÃù¼ûÿÿÿÿ
+6
+java:S1659Ö"Declare "i" on a separate line.(ĞÀîŞ
+E
+java:S1121É'".Extract the assignment out of this expression.(ş¼ÂØ
+<
+java:S1659Ä" Declare "ts" on a separate line.(ĞµÃĞüÿÿÿÿ
+n	java:S127õ"XRefactor the code in order to not assign to this loop counter from within the loop body.(é£¨
+p
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(îöÙ÷
+J
+java:S1121ƒ".Extract the assignment out of this expression.(èıøüÿÿÿÿ
+I
+java:S1948¬."-Make "transformer" transient or serializable.(Í›»ëøÿÿÿÿ
+C
+java:S1481¶"'Remove this unused "sc" local variable.(ü±÷Òşÿÿÿÿ
+J
+java:S1121ñ0".Extract the assignment out of this expression.(Óç ªÿÿÿÿÿ
+p
+java:S2293¯-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü´º¯
+p
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Š«á
+V
+java:S1161×-":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
+;
+java:S1659í-"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+E
+java:S1121‘.".Extract the assignment out of this expression.(©€Ş­
+J
+java:S1121©".Extract the assignment out of this expression.(ùõ©‡ûÿÿÿÿ
+s	java:S127Ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ÆãÛıÿÿÿÿ
+W	java:S107ã."AConstructor has 9 parameters, which is greater than 7 authorized.(“Ã©
+B
+java:S1948Ì%"&Make "next" transient or serializable.(§õú¡øÿÿÿÿ
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(à ¯
+J
+java:S1121ä".Extract the assignment out of this expression.(ÌÉÒÃüÿÿÿÿ
+n
+java:S3776‡*"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+;
+java:S1659¢,"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+o
+java:S11287"TRemove this unnecessary import: same package classes are always implicitly imported.(†¿ŞÖûÿÿÿÿ
+E
+java:S1121”".Extract the assignment out of this expression.(€¬¡‘
+E
+java:S1121°)".Extract the assignment out of this expression.(©€Ş­
+<
+java:S1659Ä" Declare "as" on a separate line.(ĞµÃĞüÿÿÿÿ
+V
+java:S1117¬":Rename "next" which hides the field declared at line 3296.(É£ê®úÿÿÿÿ
+S
+java:S1117ã'"<Rename "action" which hides the field declared at line 5082.(¶£‰‡
+?
+java:S1948¹'"(Make "action" transient or serializable.(¶£‰‡
+s
+java:S3008Â"\Rename this field "RESIZE_STAMP_BITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŠÿ
+6
+java:S1659Ú"Declare "i" on a separate line.(ĞÀîŞ
+E
+java:S1121ª/".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(´»ü™ÿÿÿÿÿ
+]
+java:S1117õ,"ARename "transformer" which hides the field declared at line 5732.(²‚éûûÿÿÿÿ
+@
+java:S1948ı+")Make "reducer" transient or serializable.(Ä”†‘
+?
+java:S1948Æ&"(Make "action" transient or serializable.(¢ŠÖ
+
+java:S1845‹1"jRename field "BASECOUNT" to prevent any misunderstanding/clash with field "baseCount" defined on line 785.(™òÑ³
+7
+java:S1659§" Declare "eh" on a separate line.(‘¨
+7
+java:S1659²" Declare "fh" on a separate line.(ĞÀîŞ
+‚
+java:S1845‰1"fRename field "SIZECTL" to prevent any misunderstanding/clash with field "sizeCtl" defined on line 795.(×ôúÿÿÿÿ
+]
+java:S1117§-"ARename "transformer" which hides the field declared at line 5782.(ßğà¿ùÿÿÿÿ
+V
+java:S1161í.":Add the "@Override" annotation above this method signature(Æ İ²ùÿÿÿÿ
+E
+java:S1121Æ.".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293¿0"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡‘‚Ôûÿÿÿÿ
+E
+java:S1121À0".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121İ+".Extract the assignment out of this expression.(ş¼ÂØ
+7
+java:S1659Ú" Declare "fh" on a separate line.(ĞÀîŞ
+;
+java:S1659ì)"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+E
+java:S1121ï&".Extract the assignment out of this expression.(ş¼ÂØ
+;
+java:S1659ì+"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+7
+java:S1659»" Declare "pk" on a separate line.(Ç€Ñ˜
+E
+java:S1121¨'".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293ş	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÍíÎùÿÿÿÿ
+V
+java:S1161¬":Add the "@Override" annotation above this method signature(²‘šÂÿÿÿÿÿ
+C
+java:S1948Í%"'Make "stack" transient or serializable.(³è¬Üıÿÿÿÿ
+p
+java:S2293¡
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷µ¹†
+<
+java:S1659²" Declare "sc" on a separate line.(¤éßûÿÿÿÿ
+6
+java:S1659§"Declare "e" on a separate line.(‘¨
+p
+java:S2293Å
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷µ¹†
+E
+java:S1121¾*".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121û,".Extract the assignment out of this expression.(©€Ş­
+E
+java:S1121¹&".Extract the assignment out of this expression.(ş¼ÂØ
+o
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¿ñ
+;
+java:S1659€+"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(´á¢‚ùÿÿÿÿ
+J
+java:S1121»".Extract the assignment out of this expression.(ÄÉÕÚşÿÿÿÿ
+X
+java:S1117Ù-"ARename "transformer" which hides the field declared at line 5832.(±Ü­Ó
+E
+java:S1121â-".Extract the assignment out of this expression.(ş¼ÂØ
+V
+java:S1161×$":Add the "@Override" annotation above this method signature(ù¢İ­ÿÿÿÿÿ
+6
+java:S1659ÿ"Declare "n" on a separate line.(İ÷¬İ
+E
+java:S1121§+".Extract the assignment out of this expression.(ş¼ÂØ
+<
+java:S1659‚+" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
+]
+java:S1117‹."ARename "transformer" which hides the field declared at line 5882.(£€µæùÿÿÿÿ
+=
+java:S1659ı"!Declare "dir" on a separate line.(İÂ”‡ıÿÿÿÿ
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(Ø§Äå
+V
+java:S1161¥-":Add the "@Override" annotation above this method signature(€üíÏøÿÿÿÿ
+p
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(îöÙ÷
+@
+java:S1940ş")Use the opposite operator ("<=") instead.(æ¶î’
+@
+java:S1948‘+")Make "reducer" transient or serializable.(Ä”†‘
+C
+java:S1481‘"'Remove this unused "ev" local variable.(“‡ëœøÿÿÿÿ
+;
+java:S1659Í
+"Declare "v" on a separate line.(åğŒÆÿÿÿÿÿ
+n	java:S127½"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+T
+java:S1117Ø)"=Rename "reducer" which hides the field declared at line 5324.(ÑíÎ
+n	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+W	java:S107€,"AConstructor has 8 parameters, which is greater than 7 authorized.(ÁĞÙ
+E
+java:S1121„)".Extract the assignment out of this expression.(©€Ş­
+E
+java:S1121’".Extract the assignment out of this expression.(íŠÈÇ
+E
+java:S1121Ì,".Extract the assignment out of this expression.(ş¼ÂØ
+p
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÀ„ì
+7
+java:S1659ô" Declare "fh" on a separate line.(ĞÀîŞ
+m	java:S127ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(“–î
+E
+java:S1121İ(".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+E
+java:S1121Á".Extract the assignment out of this expression.(®•°ˆ
+p
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¿ªÈ
+t	java:S135€"YReduce the total number of break and continue statements in this loop to use at most one.(•ë÷³ıÿÿÿÿ
+W	java:S107Ê+"AConstructor has 8 parameters, which is greater than 7 authorized.(“’Æ¬
+<
+java:S1659Ö" Declare "fh" on a separate line.(ÑÏ‘™üÿÿÿÿ
+\	java:S107›-"AConstructor has 9 parameters, which is greater than 7 authorized.(ÚİªŞüÿÿÿÿ
+Y
+java:S1128=">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ
+E
+java:S1121À0".Extract the assignment out of this expression.(ş¼ÂØ
+C
+java:S1659ø/"'Declare "nextRight" on a separate line.(Ç§ÅÅüÿÿÿÿ
+E
+java:S1121­-".Extract the assignment out of this expression.(©€Ş­
+p
+java:S2293Û/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¥Ç¼
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(º†ø¸
+6
+java:S1659™"Declare "n" on a separate line.(Ê·•¬
+u
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(å‚’Òşÿÿÿÿ
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(Ø§Äå
+h
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡æ­$
+J
+java:S1121©/".Extract the assignment out of this expression.(Ş¡Åìùÿÿÿÿ
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(øä’ò
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(’¿Ê«
+n
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+t
+java:S2234Ô"XParameters to <init> have the same names but not the same order as the method arguments.(À×Æ­úÿÿÿÿ
+n
+java:S3776Š,"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ
+n
+java:S3776ş("RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+V
+java:S1161¥(":Add the "@Override" annotation above this method signature(šÆËÅÿÿÿÿÿ
+D
+java:S1948Ù'"-Make "transformer" transient or serializable.(¬”é»
+n	java:S127´"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿—ÛĞ
+>
+java:S1659É+"'Declare "nextRight" on a separate line.(ŸÛ‚¬
+;
+java:S1659Ñ."Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+E
+java:S1121¹&".Extract the assignment out of this expression.(ş¼ÂØ
+6
+java:S1659ó"Declare "p" on a separate line.(×÷¿Ğ
+Q
+java:S1161ç*":Add the "@Override" annotation above this method signature(Áúê„
+E
+java:S1121Â".Extract the assignment out of this expression.(•µÄå
+E
+java:S1948—-")Make "reducer" transient or serializable.(Õ†Œïùÿÿÿÿ
+T
+java:S1117ê*"=Rename "reducer" which hides the field declared at line 5467.(Ä”†‘
+o	java:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(œ¼½ú
+E
+java:S1121Ô&".Extract the assignment out of this expression.(ş¼ÂØ
+P
+java:S1161Ä":Add the "@Override" annotation above this method signature(‡æ­$
+u
+java:S2293»%"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¹æÌúÿÿÿÿ
+D
+java:S1121*".Extract the assignment out of this expression.(„¿ñ
+E
+java:S1121Ø".Extract the assignment out of this expression.(Ş·—¸
+6
+java:S1659ô"Declare "n" on a separate line.(ĞÀîŞ
+;
+java:S1659ğ"Declare "m" on a separate line.(Ìöá»ûÿÿÿÿ
+C
+java:S1659Ü0"'Declare "nextRight" on a separate line.(åäŸèıÿÿÿÿ
+Y
+java:S1117Ú-"=Rename "reducer" which hides the field declared at line 5833.(Õ†Œïùÿÿÿÿ
+J
+java:S1121Ã".Extract the assignment out of this expression.(íäÔşÿÿÿÿ
+n
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(Š´ßğúÿÿÿÿ
+V
+java:S1161•":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ
+C
+java:S1659İ*"'Declare "nextRight" on a separate line.(„‘ªÑøÿÿÿÿ
+E
+java:S1121Œ(".Extract the assignment out of this expression.(ş¼ÂØ
+t	java:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(èİ¤Êıÿÿÿÿ
+E
+java:S1121Ş)".Extract the assignment out of this expression.(ş¼ÂØ
+M
+java:S2387­"1"keySet" is the name of a field in "AbstractMap".(˜›ì“ıÿÿÿÿ
+J
+java:S1121¸".Extract the assignment out of this expression.(ıâ°ıûÿÿÿÿ
+p
+java:S2293Ñ	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸¢ÅÀ
+G
+java:S1948 )"0Make "searchFunction" transient or serializable.(äø 
+L
+java:S1191Ì"5Use classes from the Java API instead of Sun classes.(«ƒÓû
+s	java:S127å"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÂ·Ëıÿÿÿÿ
+D
+java:S1948ú'"-Make "transformer" transient or serializable.(ˆáŸò
+Q
+java:S1161ü":Add the "@Override" annotation above this method signature(à ¯
+E
+java:S1121Ú+".Extract the assignment out of this expression.(©€Ş­
+6
+java:S1659Ö"Declare "v" on a separate line.(ú¬Ö¿
+`
+java:S3358ä)"DExtract this nested ternary operation into an independent statement.(¢Ö¡Œşÿÿÿÿ
+C
+java:S1659ª0"'Declare "nextRight" on a separate line.(’ò»°ÿÿÿÿÿ
+n
+java:S3776·*"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+7
+java:S1659»" Declare "ph" on a separate line.(Ç€Ñ˜
+E
+java:S1121ñ*".Extract the assignment out of this expression.(ş¼ÂØ
+@
+java:S1125ß")Remove the literal "false" boolean value.(°™à
+E
+java:S1121ğ".Extract the assignment out of this expression.(½»é¿
+S
+java:S1117…("<Rename "action" which hides the field declared at line 5115.(¶£‰‡
+E
+java:S1121Ë,".Extract the assignment out of this expression.(ËÌ¿¨
+W	java:S107é,"AConstructor has 9 parameters, which is greater than 7 authorized.(‹í„È
+E
+java:S1121Õ".Extract the assignment out of this expression.(‚åÎ—
+;
+java:S1659ç/"Declare "s" on a separate line.(ÌÕ şÿÿÿÿ
+n	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ‘‹­
+W	java:S107Ş*"AConstructor has 8 parameters, which is greater than 7 authorized.(ÁŠ‘ç
+E
+java:S1948­.")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
+6
+java:S1659"Declare "f" on a separate line.(ªÿÒ
+6
+java:S1659Ó"Declare "s" on a separate line.(²€ŸÆ
+=
+java:S1659¦"!Declare "len" on a separate line.(§õ†úÿÿÿÿ
+@
+java:S1125…")Remove the literal "false" boolean value.(›Ó·Î
+E
+java:S1121»*".Extract the assignment out of this expression.(©€Ş­
+X
+java:S1117Ó/"ARename "transformer" which hides the field declared at line 6082.(ü¦»
+S
+java:S1117¡'"<Rename "action" which hides the field declared at line 5016.(¶£‰‡
+?
+java:S1659Í%"#Declare "spare" on a separate line.(³è¬Üıÿÿÿÿ
+;
+java:S1659ê%"Declare "n" on a separate line.(š®Ãøÿÿÿÿ
+6
+java:S1659Ú"Declare "n" on a separate line.(ĞÀîŞ
+s	java:S127ã"XRefactor the code in order to not assign to this loop counter from within the loop body.(È¥ßóøÿÿÿÿ
+E
+java:S1121Ş)".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121“,".Extract the assignment out of this expression.(ş¼ÂØ
+t	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(±Ó¸úÿÿÿÿ
+Y
+java:S1117ö,"=Rename "reducer" which hides the field declared at line 5733.(Õ†Œïùÿÿÿÿ
+Q
+java:S1161†*":Add the "@Override" annotation above this method signature(¹ßÒÙ
+7
+java:S1659Ö" Declare "fh" on a separate line.(ĞÀîŞ
+s	java:S127‰"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘–Ø‚úÿÿÿÿ
+p
+java:S2293÷."YReplace the type specification in this constructor call with the diamond operator ("<>").(—ÅÊ
+E
+java:S1121ñ*".Extract the assignment out of this expression.(ş¼ÂØ
+u
+java:S2293½*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì™ÀŞıÿÿÿÿ
+V
+java:S1161Ö)":Add the "@Override" annotation above this method signature(œ²¥şÿÿÿÿ
+E
+java:S1121Ñ&".Extract the assignment out of this expression.(©€Ş­
+Q
+java:S1161ß$":Add the "@Override" annotation above this method signature(ß“°µ
+E
+java:S1121ò0".Extract the assignment out of this expression.(ş¼ÂØ
+n	java:S127û"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡ê–”
+J
+java:S1121÷$".Extract the assignment out of this expression.(èıøüÿÿÿÿ
+B
+java:S3077…"&Use an "AtomicReferenceArray" instead.(ÎŞæâùÿÿÿÿ
+u
+java:S2293¢$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÜ×‹şÿÿÿÿ
+o	java:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(£Ê²Ë
+E
+java:S1121î*".Extract the assignment out of this expression.(©€Ş­
+6
+java:S1659À"Declare "j" on a separate line.(‚òë–
+7
+java:S1659Î" Declare "qk" on a separate line.(Ã«û¾
+6
+java:S1659Ó"Declare "b" on a separate line.(²€ŸÆ
+J
+java:S1121ü".Extract the assignment out of this expression.(œÏ’üÿÿÿÿ
+o	java:S135¸)"YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
+;
+java:S1659Ÿ"$Declare "loTail" on a separate line.(Éâ³Û
+E
+java:S1121Ã.".Extract the assignment out of this expression.(©€Ş­
+n	java:S127ğ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ
+o	java:S135´("YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
+B
+java:S3077Š"&Use an "AtomicReferenceArray" instead.(İØïõùÿÿÿÿ
+n
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ş‚ÄÔıÿÿÿÿ
+C
+java:S1659ş-"'Declare "nextRight" on a separate line.(ÒÉ†ãùÿÿÿÿ
+u
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ç™æøÿÿÿÿ
+Y
+java:S1117Ä,"=Rename "reducer" which hides the field declared at line 5683.(Õ†Œïùÿÿÿÿ
+n	java:S127ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(É“±Ó
+u
+java:S2293ü
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¹îııÿÿÿÿ
+<
+java:S1659ß" Declare "rl" on a separate line.(ê¾ˆùûÿÿÿÿ
+B
+java:S1150å"+Implement Iterator rather than Enumeration.(íÖÔ¦
+n
+java:S3776è*"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+s	java:S127Û"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ
+J
+java:S1121Ê".Extract the assignment out of this expression.(åˆ»·ùÿÿÿÿ
+V
+java:S1161¥$":Add the "@Override" annotation above this method signature(õÂ°©úÿÿÿÿ
+Q
+java:S1161Æ":Add the "@Override" annotation above this method signature(÷ƒµ—
+n
+java:S3776×)"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ºòË‰ıÿÿÿÿ
+X
+java:S1117Ã,"ARename "transformer" which hides the field declared at line 5682.(–Ø®ÿ
+P
+java:S1161ƒ0":Add the "@Override" annotation above this method signature(ç®¸>
+E
+java:S1121‹*".Extract the assignment out of this expression.(©€Ş­
+n
+java:S3038·""W"contains" is defined in the "Collection" interface and can be removed from this class.(¼Å…¾
+u
+java:S2293á-"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ñš¯ûÿÿÿÿ
+E
+java:S1121š".Extract the assignment out of this expression.(‘Â•ã
+6
+java:S1659µ"Declare "n" on a separate line.(ĞÀîŞ
+;
+java:S1659ê%"Declare "i" on a separate line.(š®Ãøÿÿÿÿ
+X
+java:S1117¡/"ARename "transformer" which hides the field declared at line 6032.(øŸÈ
+6
+java:S1659"Declare "e" on a separate line.(ó‘°Ç
+s	java:S127Ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ
+<
+java:S1659î)" Declare "sr" on a separate line.(ÙÇÕèøÿÿÿÿ
+<
+java:S1948Ë%"%Make "tab" transient or serializable.(ÁìñÄ
+`
+java:S1117Ó("DRename "searchFunction" which hides the field declared at line 5192.(–ÍñÎÿÿÿÿÿ
+Y
+java:S1117¨-"=Rename "reducer" which hides the field declared at line 5783.(Õ†Œïùÿÿÿÿ
+?
+java:S1948û'"(Make "action" transient or serializable.(¶£‰‡
+D
+java:S1948á&"(Make "action" transient or serializable.(õõïØøÿÿÿÿ
+Y
+java:S1117ˆ*"=Rename "reducer" which hides the field declared at line 5372.(Í®¯Ğüÿÿÿÿ
+;
+java:S1659õ$"Declare "e" on a separate line.(²øÉŞùÿÿÿÿ
+;
+java:S1659×"Declare "f" on a separate line.(›Üé¥øÿÿÿÿ
+J
+java:S1121¦+".Extract the assignment out of this expression.(äÊÚïşÿÿÿÿ
+E
+java:S1121ª/".Extract the assignment out of this expression.(ş¼ÂØ
+E
+java:S1121¯-".Extract the assignment out of this expression.(ü´º¯
+?
+java:S1948«&"(Make "action" transient or serializable.(é¯ü¡
+>
+java:S1659Î)"'Declare "nextRight" on a separate line.(·Ì„ë
+s	java:S127ô"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÓ‹¥úÿÿÿÿ
+o	java:S135à("YReduce the total number of break and continue statements in this loop to use at most one.(Öó¨¢
+J
+java:S1121ö".Extract the assignment out of this expression.(Ùÿ÷°øÿÿÿÿ
+J
+java:S1121ã".Extract the assignment out of this expression.(˜ö–ğøÿÿÿÿ
+E
+java:S1121°-".Extract the assignment out of this expression.(ş¼ÂØ
+<
+java:S1659¸+" Declare "sr" on a separate line.(½Óº“ùÿÿÿÿ
+;
+java:S1659Ä"Declare "t" on a separate line.(ĞµÃĞüÿÿÿÿ
+p
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÚäÿ
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¦ïÄ
+E
+java:S1121ÿ".Extract the assignment out of this expression.(É“±Ó
+E
+java:S1948¬*")Make "reducer" transient or serializable.(ßæŞäüÿÿÿÿ
+u
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿæ­ºùÿÿÿÿ
+`
+java:S3358»"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ
+E
+java:S1948‘/")Make "reducer" transient or serializable.(Œ¬¤üÿÿÿÿ
+7
+java:S1659ü" Declare "sc" on a separate line.(‰¢™Ø
+`
+java:S3358º"DExtract this nested ternary operation into an independent statement.(´»ü™ÿÿÿÿÿ
+=
+java:S3077ª"&Use an "AtomicReferenceArray" instead.(ãöê
+X
+java:S1854Œ"<Remove this useless assignment to local variable "segments".(·Ö–¦şÿÿÿÿ
+7
+java:S1659™" Declare "ek" on a separate line.(ÃÄ¨
+X
+java:S1117‹,"ARename "transformer" which hides the field declared at line 5628.(ˆáŸò
+E
+java:S1121,".Extract the assignment out of this expression.(©€Ş­
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(µ‚„§şÿÿÿÿ
+J
+java:S1121ü".Extract the assignment out of this expression.(‹ú ¥üÿÿÿÿ
+n	java:S127½"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÆ±Ã
+D
+java:S1121ƒ".Extract the assignment out of this expression.(ĞÒG
+D
+java:S1948ü+"-Make "transformer" transient or serializable.(ˆáŸò
+E
+java:S1121ª".Extract the assignment out of this expression.(ˆìÏú
+E
+java:S1121”.".Extract the assignment out of this expression.(ş¼ÂØ
+<
+java:S1181Ê"%Catch Exception instead of Throwable.(ßå•¿
+\	java:S107İ0"AConstructor has 9 parameters, which is greater than 7 authorized.(ş¹öÄÿÿÿÿÿ
+]
+java:S1117 '"ARename "transformer" which hides the field declared at line 5015.(Ï¨–ıÿÿÿÿ
+n	java:S127Ì"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š´œ¾
+t
+java:S2234è"XParameters to <init> have the same names but not the same order as the method arguments.(À×Æ­úÿÿÿÿ
+<
+java:S1659ı" Declare "pk" on a separate line.(İÂ”‡ıÿÿÿÿ
+\	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª™¥Â
+<
+java:S1659¶" Declare "sc" on a separate line.(ü±÷Òşÿÿÿÿ
+J
+java:S1121ó".Extract the assignment out of this expression.(–ÜÊŠûÿÿÿÿ
+o	java:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(´ÿÕ™
+u
+java:S2293©/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş¡Åìùÿÿÿÿ
+X
+java:S1117é0"ARename "transformer" which hides the field declared at line 6232.(£îƒ¨
+E
+java:S1121Ü/".Extract the assignment out of this expression.(ş¼ÂØ
+J
+java:S1121ı,".Extract the assignment out of this expression.(ê™³ úÿÿÿÿ
+L
+java:S1948È("0Make "searchFunction" transient or serializable.(–ÍñÎÿÿÿÿÿ
+u
+java:S2293ı,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê™³ úÿÿÿÿ

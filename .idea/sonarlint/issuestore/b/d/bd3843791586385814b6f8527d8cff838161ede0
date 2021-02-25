@@ -1,0 +1,29 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(µğ×øÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.util.EmptyStackException'.(ì¯¨¯ÿÿÿÿÿ
+G
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ
+;
+java:S2157A"%Add a "clone()" method to this class.(ñ®æ¦
+>
+java:S5164Ä""Call "remove()" on "localContext".(ÎàÈÉúÿÿÿÿ
+ˆ
+java:S1130|"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(§¤èÆùÿÿÿÿ
+‰
+java:S1130“"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+‰
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+R	java:S125§"<This block of commented-out lines of code should be removed.(¯²¹´
+‰
+java:S1130Ô"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+R	java:S125»"<This block of commented-out lines of code should be removed.(›¾Ò
+…
+java:S1130ø"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ˆåüûÿÿÿÿ
+‰
+java:S1130ø"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ˆåüûÿÿÿÿ
+‰
+java:S1130´"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ó’Úıÿÿÿÿ
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅŸĞşÿÿÿÿ
